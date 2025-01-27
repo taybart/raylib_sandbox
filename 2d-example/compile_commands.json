@@ -1,0 +1,15 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-I/opt/homebrew/Cellar/raylib/5.5/include",
+      "-o",
+      "main",
+      "main.c"
+    ],
+    "directory": "/Users/taylor/dev/sandboxes/raylib/2d-example",
+    "file": "/Users/taylor/dev/sandboxes/raylib/2d-example/main.c",
+    "output": "/Users/taylor/dev/sandboxes/raylib/2d-example/main"
+  }
+]
